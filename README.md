@@ -53,6 +53,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### ICMP Traceroute:
 ![sudotacerroute](https://github.com/user-attachments/assets/17fb074e-1931-4468-9ba7-42ff55de05c8)
 
+bbbbbbbbbbbb
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
